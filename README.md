@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Paulo Prado
 
-Sou **Software Developer Full Stack**, atuando com **.NET Core / C#** no backend e **React.js / TypeScript** no frontend. Também tenho base sólida em **Java** e **Spring Boot**, o que me dá uma visão mais ampla de arquitetura entre ecossistemas. Aplico **Clean Architecture**, **DDD** e **TDD** para construir sistemas robustos, testáveis e fáceis de evoluir.
+Sou **Software Developer Full Stack**, atuando com **.NET Core / C#** no backend e **React.js / TypeScript** no frontend. Aplico **Clean Architecture**, **DDD** e **TDD** para construir sistemas robustos, testáveis e fáceis de evoluir.
 
 Atualmente na **Fagron Tech**, e cursando pós-graduação em **Engenharia de Software** pela **USP ESALQ**.
 
@@ -10,21 +10,20 @@ Atualmente na **Fagron Tech**, e cursando pós-graduação em **Engenharia de So
 
 **Backend:**
 - 🟣 **.NET Core**, **C#**, **ASP.NET Core**
-- 🟩 **Java**, **Kotlin**, **Spring Boot**
 - ⚙️ **Clean Architecture**, **DDD**, **CQRS**, **Microsserviços**
 
 **Frontend:**
 - ⚛️ **React.js**, **TypeScript**
 
 **Bancos de Dados:**
-- 🛢️ **SQL Server**, **PostgreSQL**, **MongoDB**, **MySQL**, **Oracle DB**
+- 🛢️ **SQL Server**, **PostgreSQL**, **MySQL**
 
 **Cloud & Mensageria:**
 - ☁️ **Azure**
 - 🔑 **Apache Kafka**
 
 **Testes & DevOps:**
-- 🧪 **xUnit**, **JUnit**, **Mockito**, **TDD**
+- 🧪 **xUnit**, **TDD**
 - 🐳 **Docker**
 
 ---
