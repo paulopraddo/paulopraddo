@@ -1,44 +1,46 @@
 # 👋 Olá! Eu sou Paulo Prado
 
-Sou um **Desenvolvedor Backend** com foco na construção de soluções **escaláveis** e de **alto desempenho**. Tenho sólida experiência com **Java**, **Spring Boot** e **Kotlin**, e aplico boas práticas como **Clean Architecture**, **TDD** e **princípios SOLID** para criar sistemas robustos.
+Sou **Software Developer Full Stack**, atuando com **.NET Core / C#** no backend e **React.js / TypeScript** no frontend. Também tenho base sólida em **Java** e **Spring Boot**, o que me dá uma visão mais ampla de arquitetura entre ecossistemas. Aplico **Clean Architecture**, **DDD** e **TDD** para construir sistemas robustos, testáveis e fáceis de evoluir.
 
-Apaixonado por novas tecnologias, estou sempre em busca de desafios e oportunidades de aprendizado. Acredito que a colaboração e o código limpo são essenciais para o desenvolvimento de software de sucesso.
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-**Linguagens & Frameworks:**  
-- 🟩 **Java** e **Kotlin** 
-- ⚡ **Spring Boot** e **Jetpack Compose**  
-
-**Bancos de Dados:**  
-- 🛢️ **MongoDB**, **MySQL**, **SQL Server** e **Oracle DB**
-
-**Mensageria & Arquitetura:**  
-- 🔑 **Apache Kafka**  
-- ⚙️ **Clean Architecture**, **Microsserviços**, **Padrões de Projeto**, **monolito**
-
-**Testes & DevOps:**  
-- 🧪 **JUnit**, **Mockito**  
-- 🐳 **Docker** 
+Atualmente na **Fagron Tech**, e cursando pós-graduação em **Engenharia de Software** pela **USP ESALQ**.
 
 ---
 
-## 💡 Sobre Mim
+## 🚀 Stack Principal
 
-- **Proativo**, **autodidata** e sempre buscando aprimorar meu **conhecimento técnico**.  
-- Focado em **boas práticas de programação** como **Clean Code**, **Desenvolvimento Guiado por Testes (TDD)** e os princípios **SOLID**.  
-- Experiência com **microsserviços**, **monolitos bem estruturados** e **APIs RESTful**.  
-- Acredito que o melhor código é fácil de entender, manter e escalar.
+**Backend:**
+- 🟣 **.NET Core**, **C#**, **ASP.NET Core**
+- 🟩 **Java**, **Kotlin**, **Spring Boot**
+- ⚙️ **Clean Architecture**, **DDD**, **CQRS**, **Microsserviços**
+
+**Frontend:**
+- ⚛️ **React.js**, **TypeScript**
+
+**Bancos de Dados:**
+- 🛢️ **SQL Server**, **PostgreSQL**, **MongoDB**, **MySQL**, **Oracle DB**
+
+**Cloud & Mensageria:**
+- ☁️ **Azure**
+- 🔑 **Apache Kafka**
+
+**Testes & DevOps:**
+- 🧪 **xUnit**, **JUnit**, **Mockito**, **TDD**
+- 🐳 **Docker**
 
 ---
 
-## 🔍 O Que Eu Gosto de Fazer
+## 🧩 Projeto em destaque
 
-- 🛠️ Desenvolver soluções **escaláveis e de alto desempenho** com tecnologias modernas.  
-- 💬 Colaborar com equipes para construir **sistemas eficazes e resilientes**.  
-- 📚 Explorar continuamente novas linguagens e frameworks para **expandir meus horizontes técnicos**.
+### [DiscClone](https://github.com/paulopraddo/DiscClone)
+Clone do Discord full stack: **.NET 10** (Clean Architecture + DDD, CQRS com MediatR, EF Core + PostgreSQL, SignalR) no backend e **React + TypeScript** no frontend, com chat em tempo real, chamadas de voz e compartilhamento de tela via WebRTC (PeerJS). Inclui CI no GitHub Actions, testes automatizados no backend e frontend, autenticação JWT e rate limiting.
+
+---
+
+## 💡 Sobre mim
+
+- Foco em **código limpo**, **arquitetura bem definida** e **boas práticas** (SOLID, TDD).
+- Trajetória passando por suporte técnico, infraestrutura e agora desenvolvimento — o que me dá uma visão mais completa de como o software se sustenta em produção, não só de como ele é escrito.
+- Sempre estudando: certificações em C# (Alura) e cybersecurity (FIAP), pós-graduação em andamento pela USP ESALQ.
 
 ---
 
@@ -54,7 +56,7 @@ Apaixonado por novas tecnologias, estou sempre em busca de desafios e oportunida
 
 ---
 
-## 🔗 Onde Me Encontrar
+## 🔗 Onde me encontrar
 
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/paulo-prado-7a3345237/)**  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/paulo-prado-7a3345237/)**
 - 📧 **[Email](mailto:paulo.praddo@outlook.com)**
