@@ -28,13 +28,6 @@ Atualmente na **Fagron Tech**, e cursando pós-graduação em **Engenharia de So
 
 ---
 
-## 🧩 Projeto em destaque
-
-### [DiscClone](https://github.com/paulopraddo/DiscClone)
-Clone do Discord full stack: **.NET 10** (Clean Architecture + DDD, CQRS com MediatR, EF Core + PostgreSQL, SignalR) no backend e **React + TypeScript** no frontend, com chat em tempo real, chamadas de voz e compartilhamento de tela via WebRTC (PeerJS). Inclui CI no GitHub Actions, testes automatizados no backend e frontend, autenticação JWT e rate limiting.
-
----
-
 ## 💡 Sobre mim
 
 - Foco em **código limpo**, **arquitetura bem definida** e **boas práticas** (SOLID, TDD).
